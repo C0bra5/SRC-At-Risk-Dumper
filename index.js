@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         SRC At Risk Run Dumper
-// @namespace    https://github.com/c0bra5
+// @namespace    https://github.com/C0bra5/SRC-At-Risk-Dumper
 // @version      2025-03-07
 // @description  Creates a CSV of all runs that are still hosted on twitch for a game you moderate on speedrun.com
 // @author       C0bra5
